@@ -4,5 +4,6 @@ This repository contains code solutions to common interview questions. These sol
 2. https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU  
 3. https://github.com/SeanPrashad/lc
 4. https://www.leetfree.com/
+5. https://apply.fyi/
 
 Feel free to use the list above to find good questions to practice for technical interviews.
