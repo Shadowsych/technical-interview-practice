@@ -1,4 +1,4 @@
-# Technical Interview Practice
+# Tech Interview Guide
 This repository contains code solutions and explanations to common interview questions. The primary programming language is Java, but other languages may be used as well if there are restrictions.
 
 ### Tech Handbook
