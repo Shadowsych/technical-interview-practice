@@ -1,5 +1,5 @@
 # Tech Interview Guide
-This repository contains code solutions and explanations to common interview questions. The primary programming language is Java, but other languages may be used as well if there are restrictions.
+This repository contains patterns for common leetcode questions. It also contains helpful tips for interviewing.
 
 ### Tech Handbook
 1. https://yangshun.github.io/tech-interview-handbook/introduction/
